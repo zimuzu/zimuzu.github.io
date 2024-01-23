@@ -142,6 +142,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyAekTXgqnCENgJ43Q2ZOmfAhTJogP1Vwps",
+      authDomain: "AIzaSyAekTXgqnCENgJ43Q2ZOmfAhTJogP1Vwps",
+      projectId: "dimbgame-8a0a9",
+      storageBucket: "dimbgame-8a0a9.appspot.com",
+      messagingSenderId: "580817967148",
+      appId: "1:580817967148:web:076964cb2b00ef0a94d989",
+      measurementId: "G-LZFF9274N2"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
@@ -657,7 +680,7 @@
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
-      2023
+      2024
       SunBWay
     </p>
     

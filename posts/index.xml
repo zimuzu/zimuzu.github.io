@@ -6,16 +6,36 @@
     <description>Recent content in Super cool article that I wrote on DimensionB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 SunBWay</copyright>
+    <copyright>© 2024 SunBWay</copyright>
     <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New game is developing</title>
       <link>https://zimuzu.github.io/posts/newgame/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/newgame/</guid>
-      <description>I&amp;rsquo;m trying to create a game that focus on information and fraud,allowing creative strategy.</description>
+      <description>I&amp;rsquo;m trying to create a game about wizard duel,allowing unique and creative magic.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/newgame/featured.png" />
+    </item>
+    
+    <item>
+      <title>Bounced Snake</title>
+      <link>https://zimuzu.github.io/posts/bouncedsnake/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/bouncedsnake/</guid>
+      <description>Bounce the ball and eat more.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/bouncedsnake/featured.png" />
+    </item>
+    
+    <item>
+      <title>Multiplayer Card Warchess</title>
+      <link>https://zimuzu.github.io/posts/cardwarchess/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/cardwarchess/</guid>
+      <description>Build your army like using crafting table and control information your enemy get.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/cardwarchess/featured.png" />
     </item>
     
     <item>

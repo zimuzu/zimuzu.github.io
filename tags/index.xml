@@ -6,12 +6,12 @@
     <description>Recent content in Tags on DimensionB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 SunBWay</copyright>
-    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 SunBWay</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developing</title>
       <link>https://zimuzu.github.io/tags/developing/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/tags/developing/</guid>
       <description></description>
@@ -21,9 +21,79 @@
     <item>
       <title>Multiplayer</title>
       <link>https://zimuzu.github.io/tags/multiplayer/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/tags/multiplayer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Assembly</title>
+      <link>https://zimuzu.github.io/tags/assembly/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/assembly/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Joy</title>
+      <link>https://zimuzu.github.io/tags/joy/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/joy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Relax</title>
+      <link>https://zimuzu.github.io/tags/relax/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/relax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Snake</title>
+      <link>https://zimuzu.github.io/tags/snake/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/snake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Card</title>
+      <link>https://zimuzu.github.io/tags/card/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/card/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://zimuzu.github.io/tags/strategy/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>War Chess</title>
+      <link>https://zimuzu.github.io/tags/war-chess/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/tags/war-chess/</guid>
       <description></description>
       
     </item>
@@ -34,16 +104,6 @@
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/tags/cute/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Joy</title>
-      <link>https://zimuzu.github.io/tags/joy/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://zimuzu.github.io/tags/joy/</guid>
       <description></description>
       
     </item>

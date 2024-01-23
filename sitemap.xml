@@ -7,7 +7,7 @@
     
       <url>
             <loc>https://zimuzu.github.io/</loc>
-            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+            <lastmod>2024-01-01T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,7 +18,37 @@
     
       <url>
             <loc>https://zimuzu.github.io/posts/newgame/</loc>
-            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+            <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zimuzu.github.io/posts/bouncedsnake/</loc>
+            <lastmod>2023-11-18T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zimuzu.github.io/posts/cardwarchess/</loc>
+            <lastmod>2023-10-05T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
