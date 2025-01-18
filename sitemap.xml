@@ -3,9 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
+  
+    
+  
+    
       <url>
             <loc>https://zimuzu.github.io/</loc>
-            <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zimuzu.github.io/posts/urbanoutlast/</loc>
+            <lastmod>2024-12-25T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -20,12 +43,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-  
-    
-  
     
   
     
