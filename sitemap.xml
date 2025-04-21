@@ -1,172 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>https://zimuzu.github.io/en/sitemap.xml</loc>
     
+      <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
+  <sitemap>
+    <loc>https://zimuzu.github.io/zh-cn/sitemap.xml</loc>
     
+      <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/</loc>
-            <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/urbanoutlast/</loc>
-            <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/flagseawar/</loc>
-            <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/bouncedsnake/</loc>
-            <lastmod>2023-11-18T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/cardwarchess/</loc>
-            <lastmod>2023-10-05T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/rainingcat/</loc>
-            <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/moonlightconnection/</loc>
-            <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/rollinginthesky/</loc>
-            <lastmod>2023-02-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/gothicpulse/</loc>
-            <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/forigin/</loc>
-            <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/posts/</loc>
-            <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-</urlset>
+</sitemapindex>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>萌系 on B位面</title>
+    <link>https://zimuzu.github.io/tags/%E8%90%8C%E7%B3%BB/</link>
+    <description>Recent content in 萌系 on B位面</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/%E8%90%8C%E7%B3%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>猫猫雨</title>
+      <link>https://zimuzu.github.io/posts/rainingcat/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/rainingcat/</guid>
+      <description>猫猫们想要被摸摸，所以占领了你的键盘。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/rainingcat/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>风旅归途</title>
+      <link>https://zimuzu.github.io/posts/rollinginthesky/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/rollinginthesky/</guid>
+      <description>在这款治愈系冒险游戏中，你将通过操控风力与根系，带领可爱的风滚草穿越奇妙大陆。破开坚硬冻土，在水源旁扎根，乘着风儿翻滚前行——用智慧铺就回家的每一里路！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/rollinginthesky/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

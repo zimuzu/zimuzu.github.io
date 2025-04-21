@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joy on DimensionB</title>
+    <link>https://zimuzu.github.io/en/tags/joy/</link>
+    <description>Recent content in Joy on DimensionB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/en/tags/joy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raining Cat</title>
+      <link>https://zimuzu.github.io/en/posts/rainingcat/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/rainingcat/</guid>
+      <description>Cats want to be touched,they occupied your keyboard!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/rainingcat/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

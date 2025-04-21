@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ipsum on DimensionB</title>
+    <title>ipsum on B位面</title>
     <link>https://zimuzu.github.io/tags/ipsum/</link>
-    <description>Recent content in ipsum on DimensionB</description>
+    <description>Recent content in ipsum on B位面</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <copyright>© 2025 SunBWay</copyright>
     <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fun games that I created.</title>
+      <title>一些想法</title>
+      <link>https://zimuzu.github.io/thoughts/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/thoughts/</guid>
+      <description>欢迎讨论</description>
+      
+    </item>
+    
+    <item>
+      <title>我做过的游戏</title>
       <link>https://zimuzu.github.io/posts/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <description>Just enjoy!</description>
       
     </item>
     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gothic on DimensionB</title>
+    <link>https://zimuzu.github.io/en/tags/gothic/</link>
+    <description>Recent content in Gothic on DimensionB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/en/tags/gothic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gothic Pulse</title>
+      <link>https://zimuzu.github.io/en/posts/gothicpulse/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/gothicpulse/</guid>
+      <description>You, who have mistakenly entered the Gothic castle, are astonished to discover that the mechanisms here respond to your heartbeat!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/gothicpulse/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

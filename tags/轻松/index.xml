@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>轻松 on B位面</title>
+    <link>https://zimuzu.github.io/tags/%E8%BD%BB%E6%9D%BE/</link>
+    <description>Recent content in 轻松 on B位面</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/%E8%BD%BB%E6%9D%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>弹吃蛇</title>
+      <link>https://zimuzu.github.io/posts/bouncedsnake/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/bouncedsnake/</guid>
+      <description>让贪吃蛇去弹球吧。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/bouncedsnake/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

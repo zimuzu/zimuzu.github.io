@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>解谜 on B位面</title>
+    <link>https://zimuzu.github.io/tags/%E8%A7%A3%E8%B0%9C/</link>
+    <description>Recent content in 解谜 on B位面</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/%E8%A7%A3%E8%B0%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>流光羁绊</title>
+      <link>https://zimuzu.github.io/posts/moonlightconnection/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/moonlightconnection/</guid>
+      <description>《流光羁绊》是一款以光为核心机制的治愈系解谜游戏。收集散落的月光碎片，操控神奇的光之轨迹，与伙伴携手在幽暗秘境中编织光网，驱散吞噬光明的暗影魔物。在这场唯美的月光之旅中，揭开远古文明埋藏千年的光之秘语。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/moonlightconnection/featured.png" />
+    </item>
+    
+    <item>
+      <title>风旅归途</title>
+      <link>https://zimuzu.github.io/posts/rollinginthesky/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/rollinginthesky/</guid>
+      <description>在这款治愈系冒险游戏中，你将通过操控风力与根系，带领可爱的风滚草穿越奇妙大陆。破开坚硬冻土，在水源旁扎根，乘着风儿翻滚前行——用智慧铺就回家的每一里路！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/rollinginthesky/featured.png" />
+    </item>
+    
+    <item>
+      <title>心渊回响</title>
+      <link>https://zimuzu.github.io/posts/gothicpulse/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/gothicpulse/</guid>
+      <description>误入哥特古堡的旅人，惊恐地发现自己的心跳频率竟与古堡机关产生致命共鸣！每一道谜题都暗藏血脉偾张的生死考验，每一次心跳都牵动着生死天平。在尖顶与玫瑰交织的暗黑回廊中，跟随心脏的狂乱节拍，破解血月诅咒的生存密码。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/gothicpulse/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

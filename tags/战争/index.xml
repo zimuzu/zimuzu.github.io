@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>战争 on B位面</title>
+    <link>https://zimuzu.github.io/tags/%E6%88%98%E4%BA%89/</link>
+    <description>Recent content in 战争 on B位面</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/%E6%88%98%E4%BA%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>旗海争锋</title>
+      <link>https://zimuzu.github.io/posts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/flagseawar/</guid>
+      <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/flagseawar/featured.png" />
+    </item>
+    
+    <item>
+      <title>旗海争锋</title>
+      <link>https://zimuzu.github.io/thoughts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/thoughts/flagseawar/</guid>
+      <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/thoughts/flagseawar/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

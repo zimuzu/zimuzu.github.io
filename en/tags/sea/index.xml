@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sea on DimensionB</title>
+    <link>https://zimuzu.github.io/en/tags/sea/</link>
+    <description>Recent content in Sea on DimensionB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/en/tags/sea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flag Sea War</title>
+      <link>https://zimuzu.github.io/en/posts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/flagseawar/</guid>
+      <description>As a new commander, the only way you can communicate with your naval fleet is the flag in your hand.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/flagseawar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flag Sea War</title>
+      <link>https://zimuzu.github.io/en/thoughts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/thoughts/flagseawar/</guid>
+      <description>As a new commander, the only way you can communicate with your naval fleet is the flag in your hand.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/thoughts/flagseawar/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

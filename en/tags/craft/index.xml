@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craft on DimensionB</title>
+    <link>https://zimuzu.github.io/en/tags/craft/</link>
+    <description>Recent content in Craft on DimensionB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/en/tags/craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Urban Outlast</title>
+      <link>https://zimuzu.github.io/en/posts/urbanoutlast/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/urbanoutlast/</guid>
+      <description>Welcome to Urban Outlast, where survival is the only option!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/urbanoutlast/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

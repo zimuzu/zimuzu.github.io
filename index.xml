@@ -1,90 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DimensionB</title>
+    <title>B位面</title>
     <link>https://zimuzu.github.io/</link>
-    <description>Recent content on DimensionB</description>
+    <description>Recent content on B位面</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <copyright>© 2025 SunBWay</copyright>
     <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Urban Outlast</title>
+      <title>无人生还</title>
       <link>https://zimuzu.github.io/posts/urbanoutlast/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/urbanoutlast/</guid>
-      <description>Welcome to Urban Outlast, where survival is the only option!</description>
+      <description>欢迎来到《无人生还》，在这里，生存是唯一法则！在这款快节奏的2D大逃杀游戏中，你将空降至一个充满活力却危机四伏的岛屿都市。搜寻资源、装备武器与护甲，打造战术装备来应对瞬息万变的战场。智取对手，大胆行动，全力战斗直至成为最后的生还者。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/urbanoutlast/featured.png" />
     </item>
     
     <item>
-      <title>Flag Sea War</title>
+      <title>旗海争锋</title>
       <link>https://zimuzu.github.io/posts/flagseawar/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/flagseawar/</guid>
-      <description>As a new commander, the only way you can communicate with your naval fleet is the flag in your hand.</description>
+      <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/flagseawar/featured.png" />
     </item>
     
     <item>
-      <title>Bounced Snake</title>
+      <title>旗海争锋</title>
+      <link>https://zimuzu.github.io/thoughts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/thoughts/flagseawar/</guid>
+      <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/thoughts/flagseawar/featured.png" />
+    </item>
+    
+    <item>
+      <title>弹吃蛇</title>
       <link>https://zimuzu.github.io/posts/bouncedsnake/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/bouncedsnake/</guid>
-      <description>Bounce the ball and eat more.</description>
+      <description>让贪吃蛇去弹球吧。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/bouncedsnake/featured.png" />
     </item>
     
     <item>
-      <title>Multiplayer Card Warchess</title>
+      <title>卡牌战棋对战</title>
       <link>https://zimuzu.github.io/posts/cardwarchess/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/cardwarchess/</guid>
-      <description>Build your army like using crafting table and control information your enemy get.</description>
+      <description>像使用工作台一样制造你的军队，控制对手能获取的信息。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/cardwarchess/featured.png" />
     </item>
     
     <item>
-      <title>Raining Cat</title>
+      <title>猫猫雨</title>
       <link>https://zimuzu.github.io/posts/rainingcat/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/rainingcat/</guid>
-      <description>Cats want to be touched,they occupied your keyboard!</description>
+      <description>猫猫们想要被摸摸，所以占领了你的键盘。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/rainingcat/featured.jpg" />
     </item>
     
     <item>
-      <title>Moonlight Connection</title>
+      <title>流光羁绊</title>
       <link>https://zimuzu.github.io/posts/moonlightconnection/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/moonlightconnection/</guid>
-      <description>Moonlight Connection is a puzzle game centered around light interaction.</description>
+      <description>《流光羁绊》是一款以光为核心机制的治愈系解谜游戏。收集散落的月光碎片，操控神奇的光之轨迹，与伙伴携手在幽暗秘境中编织光网，驱散吞噬光明的暗影魔物。在这场唯美的月光之旅中，揭开远古文明埋藏千年的光之秘语。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/moonlightconnection/featured.png" />
     </item>
     
     <item>
-      <title>Rolling in the wind</title>
+      <title>风旅归途</title>
       <link>https://zimuzu.github.io/posts/rollinginthesky/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/rollinginthesky/</guid>
-      <description>In this game,you will control wind and root to help little tumbleweed find home.</description>
+      <description>在这款治愈系冒险游戏中，你将通过操控风力与根系，带领可爱的风滚草穿越奇妙大陆。破开坚硬冻土，在水源旁扎根，乘着风儿翻滚前行——用智慧铺就回家的每一里路！</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/rollinginthesky/featured.png" />
     </item>
     
     <item>
-      <title>Gothic Pulse</title>
+      <title>心渊回响</title>
       <link>https://zimuzu.github.io/posts/gothicpulse/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/gothicpulse/</guid>
-      <description>You, who have mistakenly entered the Gothic castle, are astonished to discover that the mechanisms here respond to your heartbeat!</description>
+      <description>误入哥特古堡的旅人，惊恐地发现自己的心跳频率竟与古堡机关产生致命共鸣！每一道谜题都暗藏血脉偾张的生死考验，每一次心跳都牵动着生死天平。在尖顶与玫瑰交织的暗黑回廊中，跟随心脏的狂乱节拍，破解血月诅咒的生存密码。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/gothicpulse/featured.png" />
     </item>
     
@@ -94,7 +104,7 @@
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zimuzu.github.io/posts/forigin/</guid>
-      <description>Defeat enemies with props in the scene of slashing and flying&amp;hellip; or be overwhelmed by them using props!</description>
+      <description>在这款充满无厘头乐趣的横版大乱斗中，抄起场景中的随机道具，在刀光剑影与飞天遁地的混战中横扫对手！每件道具都将成为改写战局的疯狂变量！</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/forigin/featured.png" />
     </item>
     

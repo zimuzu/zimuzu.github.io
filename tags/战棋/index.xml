@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>战棋 on B位面</title>
+    <link>https://zimuzu.github.io/tags/%E6%88%98%E6%A3%8B/</link>
+    <description>Recent content in 战棋 on B位面</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/%E6%88%98%E6%A3%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>卡牌战棋对战</title>
+      <link>https://zimuzu.github.io/posts/cardwarchess/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/posts/cardwarchess/</guid>
+      <description>像使用工作台一样制造你的军队，控制对手能获取的信息。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/cardwarchess/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

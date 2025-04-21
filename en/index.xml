@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DimensionB</title>
+    <link>https://zimuzu.github.io/en/</link>
+    <description>Recent content on DimensionB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 SunBWay</copyright>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Urban Outlast</title>
+      <link>https://zimuzu.github.io/en/posts/urbanoutlast/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/urbanoutlast/</guid>
+      <description>Welcome to Urban Outlast, where survival is the only option!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/urbanoutlast/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flag Sea War</title>
+      <link>https://zimuzu.github.io/en/posts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/flagseawar/</guid>
+      <description>As a new commander, the only way you can communicate with your naval fleet is the flag in your hand.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/flagseawar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Flag Sea War</title>
+      <link>https://zimuzu.github.io/en/thoughts/flagseawar/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/thoughts/flagseawar/</guid>
+      <description>As a new commander, the only way you can communicate with your naval fleet is the flag in your hand.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/thoughts/flagseawar/featured.png" />
+    </item>
+    
+    <item>
+      <title>Multiplayer Card Warchess</title>
+      <link>https://zimuzu.github.io/en/posts/cardwarchess/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/cardwarchess/</guid>
+      <description>Build your army like using crafting table and control information your enemy get.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/cardwarchess/featured.png" />
+    </item>
+    
+    <item>
+      <title>Raining Cat</title>
+      <link>https://zimuzu.github.io/en/posts/rainingcat/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/rainingcat/</guid>
+      <description>Cats want to be touched,they occupied your keyboard!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/rainingcat/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Moonlight Connection</title>
+      <link>https://zimuzu.github.io/en/posts/moonlightconnection/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/moonlightconnection/</guid>
+      <description>Moonlight Connection is a puzzle game centered around light interaction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/moonlightconnection/featured.png" />
+    </item>
+    
+    <item>
+      <title>Rolling in the wind</title>
+      <link>https://zimuzu.github.io/en/posts/rollinginthesky/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/rollinginthesky/</guid>
+      <description>In this game,you will control wind and root to help little tumbleweed find home.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/rollinginthesky/featured.png" />
+    </item>
+    
+    <item>
+      <title>Gothic Pulse</title>
+      <link>https://zimuzu.github.io/en/posts/gothicpulse/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/gothicpulse/</guid>
+      <description>You, who have mistakenly entered the Gothic castle, are astonished to discover that the mechanisms here respond to your heartbeat!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/gothicpulse/featured.png" />
+    </item>
+    
+    <item>
+      <title>Forigin</title>
+      <link>https://zimuzu.github.io/en/posts/forigin/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/en/posts/forigin/</guid>
+      <description>Defeat enemies with props in the scene of slashing and flying&amp;hellip; or be overwhelmed by them using props!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/en/posts/forigin/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
