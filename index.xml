@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 SunBWay</copyright>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搜打撤局内设计—快慢调节及空间信息博弈</title>
+      <link>https://zimuzu.github.io/thoughts/flagseawar/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zimuzu.github.io/thoughts/flagseawar/</guid>
+      <description>先说观点：搜打撤的局内优良体验得益于打与搜的快慢节奏调节，以及战斗载体FPS带来的空间及与空间相关的信息博弈。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/thoughts/flagseawar/featured.png" />
+    </item>
+    
     <item>
       <title>无人生还</title>
       <link>https://zimuzu.github.io/posts/urbanoutlast/</link>
@@ -26,16 +36,6 @@
       <guid>https://zimuzu.github.io/posts/flagseawar/</guid>
       <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/posts/flagseawar/featured.png" />
-    </item>
-    
-    <item>
-      <title>旗海争锋</title>
-      <link>https://zimuzu.github.io/thoughts/flagseawar/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zimuzu.github.io/thoughts/flagseawar/</guid>
-      <description>新晋指挥官，你手中的令旗是掌控整支舰队的唯一语言！在惊涛骇浪间排兵布阵，通过精密旗语构建海上作战链：升帆旗调度战舰阵列，火炮旗锁定敌军方位，迷雾旗实施战术欺诈。每一次精准发令都将改写海天之间的战局天平！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zimuzu.github.io/thoughts/flagseawar/featured.png" />
     </item>
     
     <item>

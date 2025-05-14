@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>一些想法 on B位面</title>
-    <link>https://zimuzu.github.io/thoughts/</link>
-    <description>Recent content in 一些想法 on B位面</description>
+    <title>FPS on B位面</title>
+    <link>https://zimuzu.github.io/tags/fps/</link>
+    <description>Recent content in FPS on B位面</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 SunBWay</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zimuzu.github.io/tags/fps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搜打撤局内设计—快慢调节及空间信息博弈</title>
       <link>https://zimuzu.github.io/thoughts/flagseawar/</link>

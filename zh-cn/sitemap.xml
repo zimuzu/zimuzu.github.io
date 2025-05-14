@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://zimuzu.github.io/</loc>
-            <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+            <lastmod>2025-05-14T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -18,6 +18,23 @@
               hreflang="zh-cn"
               href="https://zimuzu.github.io/"
               />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://zimuzu.github.io/thoughts/flagseawar/</loc>
+            <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
           </url>
     
   
@@ -71,25 +88,6 @@
               rel="alternate"
               hreflang="zh-cn"
               href="https://zimuzu.github.io/posts/flagseawar/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://zimuzu.github.io/thoughts/flagseawar/</loc>
-            <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://zimuzu.github.io/en/thoughts/flagseawar/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="zh-cn"
-              href="https://zimuzu.github.io/thoughts/flagseawar/"
               />
           </url>
     
@@ -294,16 +292,6 @@
             <lastmod>2022-09-04T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://zimuzu.github.io/en/thoughts/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="zh-cn"
-              href="https://zimuzu.github.io/thoughts/"
-              />
           </url>
     
   
